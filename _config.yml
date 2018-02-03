@@ -14,15 +14,15 @@ style: styles-4
 
 #Profile information
 name: Abhinav Karthik Sridhar
-tagline: Control Systems Engineer
+tagline: Budding Control Systems Engineer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: hello@webjeda.com
-phone: 704 904 0728
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
+email: asridh17@asu.edu
+phone: 480 410 3096
+website: www.abhinavsridhar.com #do not add http://
+linkedin: abhinavkarthiks
+github: abhinavkarthiks
 twitter: '@webjeda'
 
 #Update all the sections by editing the files inside _includes folder.
