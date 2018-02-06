@@ -15,7 +15,7 @@ style: styles-4
 #Profile information
 name: Abhinav Karthik Sridhar
 tagline: Budding Control Systems Engineer
-pic: abhi.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: abhi.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: asridh17@asu.edu
