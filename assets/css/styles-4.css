@@ -305,7 +305,7 @@ used for profile image
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
 .button {
-  background-color: #004A7F;
+  background-color: #7A204A;
   -webkit-border-radius: 10px;
   border-radius: 10px;
   border: none;
@@ -313,7 +313,7 @@ used for profile image
   cursor: pointer;
   display: inline-block;
   font-family: Arial;
-  font-size: 20px;
+  font-size: 10px;
   padding: 5px 10px;
   text-align: center;
   text-decoration: none;
