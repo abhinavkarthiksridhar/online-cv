@@ -43,7 +43,7 @@ p {
   line-height: 1.5;
 }
 .wrapper {
-  background: #abcff2;
+  background: #197fe5;
   max-width: 960px;
   margin: 0 auto;
   position: relative;
@@ -52,7 +52,7 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
-  background: #abcff2;
+  background: #197fe5;
   position: absolute;
   right: 0;
   width: 240px;
@@ -242,7 +242,7 @@ p {
 }
 .skillset .level-bar-inner {
   height: 12px;
-  background: #abcff2;
+  background: #197fe5;
 }
 .footer {
   padding: 30px;
@@ -305,7 +305,7 @@ used for profile image
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
 .button {
-  background-color: #abcff2;
+  background-color: #197fe5;
   -webkit-border-radius: 10px;
   border-radius: 10px;
   border: none;
