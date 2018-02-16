@@ -319,27 +319,27 @@ used for profile image
   text-decoration: none;
 }
 @-webkit-keyframes glowing {
-  0% { background-color: #B20000; -webkit-box-shadow: 0 0 3px #B20000; }
-  50% { background-color: #FF0000; -webkit-box-shadow: 0 0 40px #FF0000; }
-  100% { background-color: #B20000; -webkit-box-shadow: 0 0 3px #B20000; }
+  0% { background-color: #3A76B4; -webkit-box-shadow: 0 0 3px #3A76B4; }
+  50% { background-color: #2E5E8E; -webkit-box-shadow: 0 0 40px #2E5E8E; }
+  100% { background-color: #3A76B4; -webkit-box-shadow: 0 0 3px #3A76B4; }
 }
 
 @-moz-keyframes glowing {
-  0% { background-color: #B20000; -moz-box-shadow: 0 0 3px #B20000; }
-  50% { background-color: #FF0000; -moz-box-shadow: 0 0 40px #FF0000; }
-  100% { background-color: #B20000; -moz-box-shadow: 0 0 3px #B20000; }
+  0% { background-color: #3A76B4; -moz-box-shadow: 0 0 3px #3A76B4; }
+  50% { background-color: #2E5E8E; -moz-box-shadow: 0 0 40px #2E5E8E; }
+  100% { background-color: #3A76B4; -moz-box-shadow: 0 0 3px #3A76B4; }
 }
 
 @-o-keyframes glowing {
-  0% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
-  50% { background-color: #FF0000; box-shadow: 0 0 40px #FF0000; }
-  100% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
+  0% { background-color: #3A76B4; box-shadow: 0 0 3px #3A76B4; }
+  50% { background-color: #2E5E8E; box-shadow: 0 0 40px #2E5E8E; }
+  100% { background-color: #3A76B4; box-shadow: 0 0 3px #3A76B4; }
 }
 
 @keyframes glowing {
-  0% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
-  50% { background-color: #FF0000; box-shadow: 0 0 40px #FF0000; }
-  100% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
+  0% { background-color: #3A76B4; box-shadow: 0 0 3px #3A76B4; }
+  50% { background-color: #2E5E8E; box-shadow: 0 0 40px #2E5E8E; }
+  100% { background-color: #3A76B4; box-shadow: 0 0 3px #3A76B4; }
 }
 
 .button {
